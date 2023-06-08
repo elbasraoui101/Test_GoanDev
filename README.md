@@ -1,5 +1,5 @@
 # Test_GoanDev
-
+Q:1 <br>
 sort : <br>
 Enter var X : <br>
 3 <br>
@@ -13,3 +13,33 @@ var Y :SSSSEEEEEENN <br>
 Résultat attendu  (9,2) <br>
 
 Process finished with exit code 0
+<br><br>
+
+Q:2<br>
+
+6,9
+le donné initiale  : Incorrect<br>
+object exist in case de bois impénétrables
+
+Example 
+
+###    ######    ###
+###      ##      ###
+##     ##  ##     ##
+#      ##  ##      #
+##                ##
+#####          #####
+###### ##  ##  #####
+ #     ######     # 
+     ########       
+    ##*#########    
+    ############    
+     ########      #
+ #     ######     ##
+###### ##  ## ######
+#####          #####
+##                ##
+#   ## #    # ##   #
+##   ##      ##   ##
+###    #    #    ###
+###    ######    ###
