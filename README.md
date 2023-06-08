@@ -1,15 +1,15 @@
 # Test_GoanDev
 
 sort : <br>
-Enter var X :
-3
-var X :3
-Enter var Y :
-0
-var Y :0
-Enter deriction ' N - S - E - O ' :
-SSSSEEEEEENN
-var Y :SSSSEEEEEENN
-Résultat attendu  (9,2)
+Enter var X : <br>
+3 <br>
+var X :3 <br>
+Enter var Y : <br>
+0<br>
+var Y :0 <br>
+Enter deriction ' N - S - E - O ' : <br>
+SSSSEEEEEENN <br>
+var Y :SSSSEEEEEENN <br>
+Résultat attendu  (9,2) <br>
 
 Process finished with exit code 0
